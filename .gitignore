@@ -1,0 +1,16 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# WorkBuddy 本地标记
+.workbuddyX
+*.genie
+
+# WorkBuddy 发布标记
+.workbuddy/
